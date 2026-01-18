@@ -67,29 +67,43 @@ git clone https://github.com/Omar-Seif/SpaceY.git
 
 ### 2. Install dependencies
 
-# Core Data Science Libraries
+## Core Data Science Libraries
+
+```bash
 pandas>=1.3.0
 numpy>=1.21.0
 scipy>=1.7.0
+```
 
-# Data Visualization
+### Data Visualization
+
+```bash
 matplotlib>=3.4.0
 seaborn>=0.11.0
 plotly>=5.3.0
 folium>=0.12.0
+```
 
-# Machine Learning & Statistics
+### Machine Learning & Statistics
+
+```bash
 scikit-learn>=0.24.0
-statsmodels>=0.12.0
+```
 
-# Jupyter & Interactive Computing
+### Jupyter & Interactive Computing
+
+```bash
 jupyter>=1.0.0
 ipykernel>=6.0.0
 ipywidgets>=7.6.0
+```
 
-# Web Scraping & APIs (if used)
+### Web Scraping & APIs
+
+```bash
 requests>=2.26.0
 beautifulsoup4>=4.9.0
+```
 
 ---
 
